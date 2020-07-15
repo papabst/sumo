@@ -71,7 +71,7 @@ The value of CAPACITY_NORM is controlled via the option **--capacity-norm** {{DT
 ## OpenDRIVE Road Networks
 
 To write the imported/generated network as a
-[OpenDRIVE](../Networks/Import/OpenDRIVE.md) file (version 1.4),
+[OpenDRIVE](../Networks/Import/OpenDRIVE.md) file (version 1.3),
 use the option **--opendrive-output** {{DT_FILE}}. The extension for OpenDRIVE networks is usually
 ".xodr".
 
